@@ -1,0 +1,4 @@
+Make intro Page for 'Ahmadiyya' = Ibriham
+Make holy prophet SAW page = Rizwan
+Clean up unnessary stuff = Rizwan
+Make Contact US page = Rizwan
