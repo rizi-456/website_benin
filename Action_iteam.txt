@@ -5,3 +5,7 @@ Make Contact US page = Rizwan
 Chnage feture post to french and dont wait for Muntazar Sb just 
 translate it and when you get translation form Muntazar sb replace it = 
 Ibriham
+chnage color of 'découvrez l’Islam et l’Ahmadiyya, sa renaissance
+amour pour tous, haine pour personne'  to white and remove space between 
+text and button = Ibriham
+
