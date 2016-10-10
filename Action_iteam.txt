@@ -9,3 +9,4 @@ chnage color of 'découvrez l’Islam et l’Ahmadiyya, sa renaissance
 amour pour tous, haine pour personne'  to white and remove space between 
 text and button = Ibriham
 Add contact information for Hazoor = Rizwzan
+Connect social icon to real account = Ibriham
